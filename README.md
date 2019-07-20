@@ -2,20 +2,21 @@
 UIデザイナーに役立つサービスやツールをまとめる
 
 <details>
-<summary>Awesomes</summary>
+<summary>Awesome</summary>
 
-- [🛠freemium.cc](https://freemium.cc/)
+- [freemium.cc -- Free tools for makers.](https://freemium.cc/)
 - [LisaDziuba/Awesome-Design-Tools](https://flawlessapp.io/designtools)
 
 </details>
 
 <details>
 
-<summary>Generator</summary>
+<summary>Generator,WebApp</summary>
 
 - [App Icon Generator](https://appicon.co/)
 - [bannersnack -- 静的ビジュアルまたはアニメーションHTML5バナー広告をスマートで簡単に作成。](https://www.bannersnack.com/ja/)
 - [Hatchful — シンプルで簡単なロゴメーカー](https://hatchful.shopify.com/ja/)
+- [code2flow - online interactive code to flowchart converter](https://code2flow.com/)
 
 </details>
 
