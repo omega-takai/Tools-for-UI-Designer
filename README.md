@@ -32,7 +32,7 @@ UIデザイナーに役立つサービスやツールをまとめる
 
 <details>
 
-<summary>Study,Inspiration</summary>
+<summary>Study,Inspiration</summary>
 
 - [Design notes](https://www.designnotes.co/)
 - [ブサイクなUIデザインを劇的に改善するための10のチェックリスト](https://note.mu/tiekey/n/n99eb01fa6a45)
