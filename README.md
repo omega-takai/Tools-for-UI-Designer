@@ -2,7 +2,7 @@
 UIデザイナーに役立つサービスやツールをまとめる
 
 <details>
-<summary>Awesome</summary>
+<summary>Awesome List</summary>
 
 - [freemium.cc -- Free tools for makers.](https://freemium.cc/)
 - [LisaDziuba/Awesome-Design-Tools](https://flawlessapp.io/designtools)
