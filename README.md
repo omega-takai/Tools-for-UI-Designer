@@ -14,6 +14,7 @@ UIデザイナーに役立つサービスやツールをまとめる
 <summary>Generator,WebApp</summary>
 
 - [Optimizilla - オンラインイメージ最適化ツール](https://imagecompressor.com/ja/)
+- [Firefox Send - 簡単に、プライベートにファイル共有](https://send.firefox.com/)
 - [App Icon Generator](https://appicon.co/)
 - [code2flow - online interactive code to flowchart converter](https://code2flow.com/)
 - [Wordmark.it - Helps you choose fonts](https://wordmark.it/)
