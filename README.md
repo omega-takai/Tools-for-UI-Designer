@@ -19,11 +19,13 @@ UIデザイナーに役立つサービスやツールをまとめる
 - [code2flow - online interactive code to flowchart converter](https://code2flow.com/)
 - [Wordmark.it - Helps you choose fonts](https://wordmark.it/)
 - [difff《ﾃﾞｭﾌﾌ》 テキスト比較ツール](https://difff.jp/)
+- [NFD→NFC変換ツール | 合成文字を単体の文字に変換するツール](http://tsuyobi.heteml.jp/html/tools/nfd2nfc/)
 - [bannersnack -- 静的ビジュアルまたはアニメーションHTML5バナー広告をスマートで簡単に作成。](https://www.bannersnack.com/ja/)
 - [Hatchful — シンプルで簡単なロゴメーカー](https://hatchful.shopify.com/ja/)
 - [Figma: the collaborative interface design tool.](https://www.figma.com/)
 - [Canva](https://www.canva.com/)
 - [STUDIO | コードを書かずに、Webサイト制作を完結。](https://studio.design/ja)
+- [shotsnapp - Create beautiful device mockup presentation](https://shotsnapp.com/)
 
 </details>
 
