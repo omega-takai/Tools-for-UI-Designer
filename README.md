@@ -59,6 +59,18 @@ UIデザイナーに役立つサービスやツールをまとめる
 
 <details>
 
+<summary>UI Inspiration</summary>
+
+- [【S5-Style】Webデザインギャラリー / Web Design Inspiration](https://bm.s5-style.com/)
+- [縦長のwebデザインギャラリー・サイトリンク集｜MUUUUU.ORG](https://muuuuu.org/)
+- [webデザイナーのためのギャラリー・サイトリンク集 / 1GUU](https://1guu.jp/)
+- [I/O 3000 | Webデザインギャラリー](https://io3000.com/)
+- [81-web.com【Webデザイン リンク集】](https://81-web.com/)
+- [ランディングページ集めました。](http://lp-web.com/)
+
+</details>
+<details>
+
 <summary>Learning Resources</summary>
 
 - [Design notes](https://www.designnotes.co/)
