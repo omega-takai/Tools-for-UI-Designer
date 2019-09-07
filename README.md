@@ -5,6 +5,7 @@ UIデザイナーに役立つサービスやツールをまとめる
 <summary>Awesome List</summary>
 
 - [freemium.cc -- Free tools for makers.](https://freemium.cc/)
+- [Resources | Free resources to kickstart your remote career.](https://www.remotegrad.io/resources)
 - [LisaDziuba/Awesome-Design-Tools](https://flawlessapp.io/designtools)
 
 </details>
